@@ -4,7 +4,7 @@ A clean, modern personal portfolio website showcasing my experience, education, 
 
 ## About
 
-This is my personal website built with HTML, CSS, and JavaScript. It features a minimalist black and white design inspired by Palantir and Nightwing, emphasizing clean typography and thoughtful spacing.
+This is my personal website built with HTML, CSS, and JavaScript.
 
 ## Features
 
