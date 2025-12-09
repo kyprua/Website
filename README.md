@@ -31,11 +31,13 @@ This is my personal website built with HTML, CSS, and JavaScript. It features a 
 
 ## Live Site
 
-Visit the live website at: [https://kyprua.github.io/Website/](https://kyprua.github.io/Website/)
+**View the website here:** [https://kyprua.github.io/Website/](https://kyprua.github.io/Website/)
 
-## Local Development
+No installation or setup required - just click the link above to view the live site!
 
-To run this website locally:
+## Local Development (Optional)
+
+If you want to run this website locally for development:
 
 1. Clone the repository:
 ```bash
@@ -47,12 +49,7 @@ git clone https://github.com/kyprua/Website.git
 cd Website
 ```
 
-3. Open `index.html` in your browser:
-```bash
-open index.html
-```
-
-Or use a local server:
+3. Open `index.html` in your browser or use a local server:
 ```bash
 python -m http.server 8000
 # Then visit http://localhost:8000
