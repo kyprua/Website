@@ -355,6 +355,39 @@ h2 {
     color: var(--text-color);
 }
 
+/* Resume Section */
+#resume {
+    background-color: var(--bg-color);
+    text-align: center;
+}
+
+.resume-intro {
+    font-size: 1rem;
+    color: var(--text-light);
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resume-button {
+    display: inline-block;
+    padding: 14px 32px;
+    background-color: var(--bg-dark);
+    color: var(--secondary-color);
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 0.875rem;
+    letter-spacing: 0.02em;
+    transition: opacity 0.2s ease;
+    border: 1px solid var(--bg-dark);
+}
+
+.resume-button:hover {
+    opacity: 0.85;
+}
+
 /* Contact Section */
 #contact {
     background-color: var(--bg-dark);
